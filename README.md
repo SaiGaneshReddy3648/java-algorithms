@@ -1,6 +1,8 @@
 # java-algorithms
 
 # this is java algorithms to know every programmer:
+these 15 algorithms are very helpful for getting great experience for learn coding. so go through the codes and ask me doubts where you have queries,
+# Good luck every one....
 1.Searching and Sorting
 2.Greedy Algorithms
 3.Dynamic Programming
