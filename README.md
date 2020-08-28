@@ -18,4 +18,4 @@ these 15 algorithms are very helpful for getting great experience for learn codi
 14.Quizzes on Algorithms
 15.Misc
 
-# Good luck every one....
+# Good luck for every one....🙂
